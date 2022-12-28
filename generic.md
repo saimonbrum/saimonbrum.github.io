@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Project
+title: Thales
 description: Lorem ipsum dolor est
-image: assets/images/map01.jpg
+image: assets/images/map01.jpggit --ad
 nav-menu: true
 show_tile: true
 ---

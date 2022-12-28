@@ -1,10 +1,10 @@
 ---
 title: About Me
 layout: landing
-description: 'Who am I<br />Who I want to be.'
+description: 'Who am I<br />Who I can to be.'
 image: assets/images/pic07.jpg
-nav-menu: true
-show_tile: true
+nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->

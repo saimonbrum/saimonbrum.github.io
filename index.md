@@ -2,9 +2,10 @@
 layout: home
 title: Home
 landing-title: 'Hi, my name is Saimon'
-description: null
+description: Esse é o texto de descrição
 image: null
 author: null
+nav-menu: true
 show_tile: false
 ---
 
