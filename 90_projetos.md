@@ -1,10 +1,11 @@
 ---
-title: About Me
+title: Projetos
 layout: landing
-description: 'Who am I<br />Who I can to be.'
+description: todos os projetos
 image: assets/images/pic07.jpg
 nav-menu: false
 show_tile: false
+permalink: /projetos/
 ---
 
 <!-- Main -->
@@ -16,7 +17,7 @@ show_tile: false
 		<header class="major">
 			<h2>Editar esse h2</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Aqui vai o texto inicial do gestão de produto</p>
 	</div>
 </section>
 
@@ -29,11 +30,13 @@ show_tile: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Primeira parte</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Aqui posso criar um include e salvar essa primeira parte em .md, assim, conseguirei taguear cada parte e depois filtrar as tags de todos os projetos.</p>
+                <p>O botão está linkando para o projeto 1
+                </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Ver Thales</a></li>
 				</ul>
 			</div>
 		</div>
@@ -45,11 +48,12 @@ show_tile: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Parte 2</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Aqui posso linkar para outra parte.md com include e novamente usar tags para filtrar posteriormente.</p>
+                <p>O botão está linkando para outro projeto</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic2.html" class="button">Ver Canon Medical</a></li>
 				</ul>
 			</div>
 		</div>
@@ -61,11 +65,11 @@ show_tile: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Top Campinas</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Mais um include que vai permitir filtrar quais etapas de design fiz em cada projeto.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic3.html" class="button">Ver Top Campinas</a></li>
 				</ul>
 			</div>
 		</div>
