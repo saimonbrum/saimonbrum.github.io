@@ -128,7 +128,6 @@ Finally, this is a <a href="#">link</a>.</p>
 		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
 	</dd>
 </dl>
-
 <h4>Actions</h4>
 <ul class="actions">
 	<li><a href="#" class="button special">Default</a></li>

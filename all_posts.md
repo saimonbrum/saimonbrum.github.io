@@ -7,6 +7,7 @@ description: null
 image: null
 author: null
 show_tile: false
+permalink: /allposts/
 ---
 
 <h1>All posts</h1>

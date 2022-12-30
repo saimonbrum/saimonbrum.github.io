@@ -1,0 +1,13 @@
+conteudo:
+- title: Primeira parte
+  image: assets/images/pic01.jpg
+  content: Verificar como colocar esse title e esse content em um arquivo na pasta data, no projeto de mesmo nome, e usar variáveis para puxar pra cá.<br>Aqui vai a conclusão do parágrafo.
+- title: Segunda parte
+  image: assets/images/pic07.jpg
+  content: segundo parágrafo
+- title: terceira parte
+  image: assets/images/pic07.jpg
+  content: aqui vai o texto<br>do terceiro parágrafo
+- title: parte final
+  image: assets/images/pic07.jpg
+  content: aqui vai o último parágrafo
