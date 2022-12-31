@@ -1,7 +1,7 @@
 ---
-title: "Desafio: Portfolio"
+title: "Portfolio Remake"
 layout: projeto
-description: Design orientado ao objeto<br>no refactory do meu site
+description: Object Oriented Design<br>Working with Jekyll
 image: assets/images/pic07.jpg
 nav-menu: true
 show_tile: true
