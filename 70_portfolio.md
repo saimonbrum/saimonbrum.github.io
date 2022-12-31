@@ -1,11 +1,11 @@
 ---
-title: Teste data yml
+title: "Desafio: Portfolio"
 layout: projeto
-description: rápida descrição
+description: Design orientado ao objeto<br>no refactory do meu site
 image: assets/images/pic07.jpg
 nav-menu: true
 show_tile: true
-permalink: /projeto_testeyml/
+permalink: /portfolio/
 ---
 <!-- Instruções>
 <!-- Neste arquivo mudar somente o frontmater e os partes a seguir:>
@@ -17,7 +17,7 @@ permalink: /projeto_testeyml/
 
 <!-- One -->
 <section id="one">
-{% for item in site.data.projeto_de_teste.intro %}
+{% for item in site.data.portfolio.intro %}
 	<div class="inner">
 		<header class="major">
 			<h2>{{item.title}}</h2>
@@ -29,7 +29,7 @@ permalink: /projeto_testeyml/
 
 <!-- Two -->
 <section id="two" class="spotlights">
-{% for item in site.data.projeto_de_teste.conteudo %}
+{% for item in site.data.portfolio.conteudo %}
    <section>
   <img src="{{item.image}}" alt="" data-position="center center" class="image"/>
     <div class="content">
@@ -45,7 +45,7 @@ permalink: /projeto_testeyml/
    </section>
 <!-- Three -->
 <section id="three">
-{% for item in site.data.projeto_de_teste.conclusao %}
+{% for item in site.data.portfolio.conclusao %}
 	<div class="inner">
 		<header class="major">
 			<h2>{{item.title}}</h2>

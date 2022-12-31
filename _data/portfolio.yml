@@ -1,0 +1,34 @@
+intro:
+- title: Portfolio Project
+  content: Por trabalhar em uma conta que possui N.D.A., resolvi utilizar alguns conhecimentos que trabalho diariamente para refazer meu portolio.
+conteudo:
+- title: A demanda
+  image: /home/assets/images/pic01.jpg
+  content: Atualizar o Portfolio
+- title: O problema
+  image: /home/assets/images/pic01.jpg
+  content: Webflow free tem limite<br>Webflow pago é caro<br>$=+5R$
+- title: Ideia
+  image: /home/assets/images/pic03.jpg
+  content: Projetos no trabalho usam jekyll para arquivos de help<br>Posso aprender jekyll e refazer meu Portfolio
+- title: Problema
+  image: /home/assets/images/pic04.jpg
+  content: Jekyll = Github + Liquid + Css + html + javascript + command line + etc
+- title: Planning
+  image: /home/assets/images/pic03.jpg
+  content: Como eu gostaria que fosse<br>Quero usar conceitos de zettelkasten
+- title: Learning
+  image: /home/assets/images/pic03.jpg
+  content: Project Based Learning<br>Mapeei o que eu sabia e fui aprendendo o que precisava<br>Ao mesmo tempo ia aplicando os conhecimentos
+- title: Error
+  image: /home/assets/images/pic03.jpg
+  content: Diversos erros no percurso<br>Comparava eles com exemplos para entender o motivo
+- title: Chat-GPT, Can you Help Me?
+  image: /home/assets/images/pic03.jpg
+  content: Em alguns momentos utilizei o Chat-GPT para verificar erros do código
+- title: Tentativa e erro
+  image: /home/assets/images/pic03.jpg
+  content: Após 5 dias de tentativas e erros, chego no resultado atual
+conclusao:
+- title: Conclusão
+  content: <h3>Benefícios</h3>Foco no conteúdo<br>O código sai automático<br>Edição facilitada dos templates<br><br><br><h3>Resultados</h3>Menu atualizado automaticamente<br>Tiles da home atualizados e com link automático<br>Sem limite de páginas
