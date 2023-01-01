@@ -15,13 +15,7 @@
         <section id="banner" class="style2">
             <div class="inner">
                 <span class="image">
-                    <img src="{{ site.baseurl }}/{{ page.image }}" alt="" onclick="openModal()">
-                    <!-- Modal -->
-                    <div id="myModal" class="modal">
-                      <span class="close">&times;</span>
-                      <img class="modal-content" id="img01">
-                      <div id="caption"></div>
-                    </div>
+                    <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
                 </span>
                 <header class="major">
 
@@ -39,21 +33,8 @@
     {{ content }}
 
     {% include footer.html %}
-
-    <script>
-      // Abre o modal quando a imagem é clicada
-      function openModal() {
-        this.nextElementSibling.style.display = "block";
-        this.nextElementSibling.firstElementChild.src = this.src;
-        this.nextElementSibling.lastElementChild.innerHTML = this.alt;
-      }
-
-      // Fecha o modal quando o usuário clica em fechar
-      document.getElementsByClassName("close")[0].onclick = function() {
-        this.parentElement.style.display = "none";
-      }
-    </script>
- 
+    <script type="text/javascript" src="/js/lightbox.js"></script>
+    <link rel="stylesheet" href="/css/lightbox.css">
 </body>
 
 </html>
