@@ -5,7 +5,7 @@ description: rápida descrição
 image: assets/images/pic07.jpg
 nav-menu: true
 show_tile: true
-permalink: /projeto_testeyml/
+permalink: /projeto_testeym2/
 ---
 <!-- Instruções>
 <!-- Neste arquivo mudar somente o frontmater e os partes a seguir:>
