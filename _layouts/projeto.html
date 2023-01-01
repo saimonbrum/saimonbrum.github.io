@@ -16,6 +16,12 @@
             <div class="inner">
                 <span class="image">
                     <img src="{{ site.baseurl }}/{{ page.image }}" alt="" onclick="openModal()">
+                    <!-- Modal -->
+                    <div id="myModal" class="modal">
+                      <span class="close">&times;</span>
+                      <img class="modal-content" id="img01">
+                      <div id="caption"></div>
+                    </div>
                 </span>
                 <header class="major">
 
@@ -32,26 +38,19 @@
 
     {{ content }}
 
-    <!-- Modal -->
-    <div id="myModal" class="modal">
-      <span class="close">&times;</span>
-      <img class="modal-content" id="img01">
-      <div id="caption"></div>
-    </div>
-
     {% include footer.html %}
 
     <script>
       // Abre o modal quando a imagem é clicada
       function openModal() {
-        document.getElementById("myModal").style.display = "block";
-        document.getElementById("img01").src = this.src;
-        document.getElementById("caption").innerHTML = this.alt;
+        this.nextElementSibling.style.display = "block";
+        this.nextElementSibling.firstElementChild.src = this.src;
+        this.nextElementSibling.lastElementChild.innerHTML = this.alt;
       }
 
       // Fecha o modal quando o usuário clica em fechar
       document.getElementsByClassName("close")[0].onclick = function() {
-        document.getElementById("myModal").style.display = "none";
+        this.parentElement.style.display = "none";
       }
     </script>
  
