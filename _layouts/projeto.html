@@ -15,7 +15,9 @@
         <section id="banner" class="style2">
             <div class="inner">
                 <span class="image">
-                    <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+                    <a href="{{ site.baseurl }}/{{ page.image }}"></a>
+                        <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+                    </a>
                 </span>
                 <header class="major">
 
@@ -33,8 +35,7 @@
     {{ content }}
 
     {% include footer.html %}
-    <script type="text/javascript" src="/js/lightbox.js"></script>
-    <link rel="stylesheet" href="/css/lightbox.css">
+    
 </body>
 
 </html>
