@@ -3,8 +3,8 @@ layout: post
 title: Portfolio
 description: Object mapping 
 image: assets/images/pic11.jpg
-nav-menu: true
-show_tile: true
+nav-menu: false
+show_tile: false
 permalink: /portfolio2/
 ---
 

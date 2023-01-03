@@ -3,8 +3,8 @@ layout: post
 title: Thales
 description: Sitema gestão de produto
 image: assets/images/map01.jpggit --ad
-nav-menu: true
-show_tile: true
+nav-menu: false
+show_tile: false
 permalink: /thales/
 ---
 
