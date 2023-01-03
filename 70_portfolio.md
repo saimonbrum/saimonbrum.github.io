@@ -2,7 +2,7 @@
 title: "Portfolio Remake"
 layout: projeto
 description: Object Oriented Design<br>Working with Jekyll
-image: /assets/images/portfolio/portfolio_capa.jpg
+image: assets/images/portfolio/portfolio_capa.jpg
 nav-menu: true
 show_tile: true
 permalink: /portfolio/
