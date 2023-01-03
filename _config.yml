@@ -12,6 +12,7 @@ state: Rio Grande do Sul
 zip_code: 
 country: Brazil
 phone: 
+google_analytics: G-PK4QJCX60E
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
