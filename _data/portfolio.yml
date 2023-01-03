@@ -2,11 +2,11 @@ intro:
 - title: Updating the Portfolio with Jekyll
   content: This is the story of my journey to update my portfolio using Jekyll as an alternative to Webflow.<br>I learned about Jekyll and applied object-oriented design principles to the planning, facing several challenges and errors along the way.<br>In the end, I successfully updated my portfolio and learned a lot about Jekyll in the process.
 conteudo:
-- title: The Demand for the Portfolio - image
-  image: 
+- title: The Demand for the Portfolio 
+  image: /assets/images/portfolio/portfolio_webflow.jpg
   content: My current portfolio was out of date and I wanted to find a way to update it efficiently and affordably.<br>I had used Webflow in the past, but I found that it has a free page limit and the paid version is quite expensive.
 - title: Jekyll as an Alternative
-  image: 
+  image: /assets/images/portfolio/portfolio_jekyll.jpg
   content: At my company, we use Jekyll to create help files and I thought I might be able to learn how to use it and rebuild my portfolio with it.<br>Jekyll is a static site generator that uses Github, Liquid, CSS, HTML, JavaScript, and the command line to create dynamic sites.
 - title: Planing Flows
   image: /assets/images/portfolio/portfolio_planing.jpg
