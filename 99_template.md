@@ -4,7 +4,7 @@ layout: projeto
 description: rápida descrição
 image: assets/images/pic07.jpg
 nav-menu: false
-show_tile: false
+show_tile: true
 permalink: /projeto_testeyml/
 ---
 <!-- Instruções>

@@ -4,7 +4,7 @@ layout: landing
 description: todos os projetos
 image: assets/images/pic07.jpg
 nav-menu: false
-show_tile: false
+show_tile: true
 permalink: /projetos/
 ---
 
