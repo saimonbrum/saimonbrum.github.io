@@ -3,8 +3,8 @@ title: Teste data yml
 layout: projeto
 description: rápida descrição
 image: assets/images/pic07.jpg
-nav-menu: true
-show_tile: true
+nav-menu: false
+show_tile: false
 permalink: /projeto_testeyml/
 ---
 <!-- Instruções>
