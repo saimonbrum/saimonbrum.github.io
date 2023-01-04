@@ -23,9 +23,10 @@ permalink: /projeto_teste/
 
 <!-- Two -->
 <section id="two" class="spotlights">
-	{% include proj_teste/p_t_p01.html %}
-	<section>
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<section>
+		<a class="image" href="{% link assets/images/pic09.jpg %}" data-lightbox="pic09">
+			<img class="image" src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		</a>
 			<div class="content">
 			<div class="inner">
 				<header class="major">
