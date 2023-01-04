@@ -31,7 +31,9 @@ permalink: /portfolio/
 <section id="two" class="spotlights">
 {% for item in site.data.portfolio.conteudo %}
    <section>
-  <img src="{{item.image}}" alt="" data-position="center center" class="image"/>
+   <a class="image" href="{% link assets/images/pic09.jpg %}" data-lightbox="{{item.title}}">
+  <img class="image" src="{{item.image}}" alt="" data-position="center center" class="image"/>
+  </a>
     <div class="content">
       <div class="inner">
         <header class="major">
