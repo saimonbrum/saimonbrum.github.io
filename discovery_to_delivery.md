@@ -113,36 +113,33 @@ Se a entrega passar de 5 dias úteis, uma multa de atraso é cobrada.
 <h2 id="content">Entregas </h2>
 </div>
 	<!-- Break -->
-	<div class="4u 12u$(medium)">
+	<ul class="4u 12u$(medium)">
 		<h3>Fase 1</h3>
-		<p>Entrega<br>
-- Formulário online<br>
-- Aprovação por partes<br>
-- Dashboard<br>
-- Acompanhamento do status<br>
-Resultado<br>
-- Menor número de emails<br>
-- Aprovações parciais<br>
-- Menor tempo de correção<br>
-</p>
-	</div>
-	<div class="4u 12u$(medium)">
+		<h4>Entrega</h4>
+		<li>Formulário online</li>
+		<li>Aprovação por partes</li>
+		<li>Dashboard</li>
+		<li>Acompanhamento do status</li><br>
+		<h4>Resultado</h4>
+		<li>Menor número de emails</li>
+		<li>Aprovações parciais</li>
+		<li>Menor tempo de correção</li>
+</ul>
+	<ul class="4u 12u$(medium)">
 		<h3>Fase 2</h3>
-		<p>Entrega<br>
-- Cadastro de itens<br>
-- Dependencias programáveis pelo usuário<br>
-- Avisos globais programáveis pelo usuário<br>
-Resultado<br>
-- Diminuição dos erros de produção<br>
-- Diminuição das multas por atraso<br>
-</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
+		<h4>Entrega</h4>
+		<li>Cadastro de itens</li>
+		<li>Dependencias programáveis pelo usuário</li>
+		<li>Avisos globais programáveis pelo usuário</li><br>
+		<h4>Resultado</h4>
+		<li>Diminuição dos erros de produção</li>
+		<li>Diminuição das multas por atraso</li>
+</ul>
+	<ul class="4u$ 12u$(medium)">
 		<h3>Extras</h3>
-		<p>
-        - Help do sistema<br>
-- Relatório para o governo justificando todas as features, mostrando sua origem com base nas entrevistas com os usuários.</p>
-	</div>
+		<li>Help do sistema</li>
+		<li>Relatório para o governo justificando todas as features, mostrando sua origem com base nas entrevistas com os usuários.</li>
+</ul> 
 
 
 
