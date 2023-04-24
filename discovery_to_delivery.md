@@ -17,6 +17,10 @@ show_tile: true
 		</header>
 
 <!-- Content -->
+<div class="12u$">
+<h2 id="content">Ficha técnica</h2>
+<p> A seguir um resumo dos resultados obtidos no final do projeto e logo após um resumo dos principais fatores que levaram a esse resultado.<br>Para maiores informações entre em contato!</p>
+</div>
 <h2 id="content">Resultados</h2>
 <div class="row">
     <div class="4u 12u$(small)">
@@ -37,10 +41,6 @@ show_tile: true
 		<p>de diminuição das multas de atraso de entrega </p>
         </div>
     </div>
-<div class="12u$">
-<h2 id="content">Ficha técnica</h2>
-<p> Texto de introdução</p>
-</div>
 <div class="row">
 	<div class="6u 12u$(medium)">
 		<h3>Cliente</h3>
@@ -52,11 +52,11 @@ show_tile: true
         </p>
 	</div>
 	<!-- Break -->
-	<div class="4u 12u$(small)">
+	<div class="6u 12u$(small)">
 		<h3>Delimitações</h3>
 		<p>Projeto financiado por lei de incentivo fiscal. Isso implica em ter as entregas detalhadas no momento da proposta, antes de ter o problema bem definido.</p>
 	</div>
-	<div class="4u 12u$(small)">
+	<div class="3u 6u$(small)">
 		<h3>Equipe</h3>
 		<ul>
             <li>1 UX Designer</li>
@@ -66,7 +66,8 @@ show_tile: true
             <li>1 QA</li>
         </ul>
 	</div>
-	<div class="4u$ 12u$(small)">
+	<div class="3u$ 6
+u$(small)">
 		<h3>Tempo</h3>
 		<ul>
             <li>Fase 1 - 5 meses</li>
