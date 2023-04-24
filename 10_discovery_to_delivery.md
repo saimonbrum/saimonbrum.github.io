@@ -4,6 +4,7 @@ title: Discovery to Delivery
 image: assets/images/pic01.jpg
 nav-menu: true
 show_tile: true
+permalink: /end-to-end/
 ---
 <!-- One -->
 <section id="Resumo">
