@@ -223,7 +223,6 @@
 				});
 
 			}
-
 		// Banner.
 			$banner.each(function() {
 
@@ -350,3 +349,4 @@
 	});
 
 })(jQuery);
+
