@@ -24,10 +24,7 @@ permalink: /end_to_end/
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-    <div class="row">
-    <h2 id="Resumoi">Resultados</h2>
-</div>
-		<a class="image" href="/assets/images/case_completo_end-to-end.svg" data-lightbox="resumo">
+    	<a class="image" href="/assets/images/case_completo_end-to-end.svg" data-lightbox="resumo">
 			<img src="/assets/images/case_completo_end-to-end.svg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
