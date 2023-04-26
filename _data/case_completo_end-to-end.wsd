@@ -1,0 +1,45 @@
+@startuml
+header Resumo
+participant Venturus as ven
+actor Stakeholder as eng
+actor Saimon as sai
+actor Devs as dev
+Autonumber
+group Orçamento
+eng->>ven: Chega com a proposta de software
+ven->>eng: Devolve orçamento com preço e tempo
+eng->>ven: Fecha contrato
+end
+group discovery
+eng->>sai: Fornece documentação
+sai->>dev: Estuda a documentação com a equipe
+sai->>eng: Mapeaia dores e desafios
+eng->>sai: Fornece mais dados da jornada
+sai->>dev: Analisa com a equipe
+sai->>eng: Demonstra as causas raiz dos problemas
+end
+group Reflete nas causas raiz
+eng->>eng: Percebe que sua solução não\nresolve o problema real
+eng->>ven: Negocia segunda fase
+end
+group Co-criação
+sai->>dev: Verifica limitações técnicas
+sai->>eng: Co-cria com o cliente
+end
+Group Validação
+sai->>dev: Validar soluções
+sai->>eng: Valida com o usuario
+dev->>eng: Constroi versao integrando banco de dados
+sai->>eng: Testa com o usuario
+eng->>sai: Feedback
+sai->>dev: Correçoes
+end
+group Entrega
+dev->>eng: Entrega Final
+sai->>eng: Entrega da documentação
+sai->>ven: Entrega dos relatórios
+end
+group Assina novo contrato
+eng->>ven: Contrata a segunda fase\ndobrando os investimentos
+end
+@enduml

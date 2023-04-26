@@ -6,6 +6,12 @@ nav-menu: true
 show_tile: true
 permalink: /end-to-end/
 ---
+<div class="row">
+<span class="image">
+    <img src="assets/images/case_completo_end-to-end.svg" alt="">
+</span>
+</div>
+
 <!-- One -->
 <section id="Resumo">
 <div class="row">
@@ -13,28 +19,6 @@ permalink: /end-to-end/
     <h2 id="content">Ficha técnica</h2>
     <p> Como UX designer, minha empresa foi contratada por um grupo de engenheiros que queria automatizar a parte das planilhas do seu processo semi-automatizado.Eles trabalham em uma grande multinacional e o seu setor é a impressão de cartões inteligentes.<br>Meu primeiro passo foi realizar entrevistas com os usuários para entender como eles trabalhavam e identificar suas principais dores e desafios.<br>Durante esse processo, pude mapear os problemas e descobrir que o software encomendado pelos engenheiros até ajudava no trabalho, mas não resolvia o problema principal.<br>Os resultados da minha descoberta impressionaram tanto os engenheiros que eles mesmos propuseram uma segunda fase para o projeto, sem nem termos entregue a primeira fase ainda, dobrando o investimento inicial que haviam feito.<br>Trabalhei em colaboração com outros membros da equipe para validar minhas soluções de design e obter feedback.<br>Além disso, defini métricas claras para medir o sucesso do projeto e monitorei de perto essas métricas ao longo do tempo.<br>O resultado foi ainda mais impactante - uma redução de 87% nas multas de atraso de entrega, 80% na quantidade de erros de produção e 30% no tempo de correções.</p>
     </div>
-</div>
-<h1>Pure CSS Accordion <sup>2.0</sup></h1>
-<div class="row">
-  <div class="col">
-    <h2>Open <b>multiple</b></h2>
-    <div class="tabs">
-      <div class="tab">
-        <input type="checkbox" id="chck1">
-        <label class="tab-label" for="chck1">Item 1</label>
-        <div class="tab-content">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum, reiciendis!
-        </div>
-      </div>
-      <div class="tab">
-        <input type="checkbox" id="chck2">
-        <label class="tab-label" for="chck2">Item 2</label>
-        <div class="tab-content">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. A, in!
-        </div>
-      </div>
-    </div>
-  </div>
 </div>
 <div class="row">
     <h2 id="resultados">Resultados</h2>
@@ -171,4 +155,33 @@ permalink: /end-to-end/
         </ul> 
     </div>
 </div>
+<!--
+sequenceDiagram
+participant ven as Venturus
+actor eng as Stakeholder
+actor sai as Saimon
+actor dev as desenvolvedores
+eng->>ven: Chega com a proposta de software
+ven->>eng: Devolve orçamento com preço e tempo
+eng->>ven: Fecha contrato
+eng->>sai: Fornece documentação
+sai->>dev: Estuda a documentação com a equipe
+sai->>eng: Mapeaia dores e desafios
+eng->>sai: Fornece mais dados da jornada
+sai->>dev: Analisa com a equipe
+sai->>eng: Demonstra as causas raiz dos problemas
+eng->>eng: Percebe que sua solução não resolve o problema real
+eng->>ven: Negocia segunda fase
+sai->>dev: Verifica limitações técnicas
+sai->>eng: Co-cria com o cliente
+sai->>dev: Validar soluções
+sai->>eng: Valida com o usuario
+dev->>eng: Constroi versao integrando banco de dados
+sai->>eng: Testa com o usuario
+eng->>sai: Feedback
+sai->>dev: Correçoes
+dev->>eng: Entrega Final
+sai->>eng: Entrega da documentação
+sai->>ven: Entrega dos relatórios
+eng->>ven: Contrata a segunda fase dobrando os investimentos-->
 </section>
