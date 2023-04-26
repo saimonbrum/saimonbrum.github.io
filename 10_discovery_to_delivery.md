@@ -24,8 +24,8 @@ permalink: /end_to_end/
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a class="image" href="assets/images/case_completo_end-to-end.svg" data-lightbox="resumo">
-			<img src="assets/images/case_completo_end-to-end.svg" alt="" data-position="center center" />
+		<a class="image" href="/assets/images/case_completo_end-to-end.svg" data-lightbox="resumo">
+			<img src="/assets/images/case_completo_end-to-end.svg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -43,11 +43,29 @@ permalink: /end_to_end/
 </div>
 
 <!-- One -->
-<section id="Resumo">
+<section id="resultados">
 <div class="row">
-    <div class="6u 8u$ (medium) 12u$(small)">
-    <h2 id="content">Ficha técnica</h2>
-    
+    <h2 id="resultados">Resultados</h2>
+</div>
+</section>
+<div class="row">
+    <div class="4u 12u$(small)">
+        <div class="box-center">
+        <h1>30%</h1>
+        <p>de economia no tempo de correções</p>
+        </div>
+    </div>
+    <div class="4u 12u$(small)">
+        <div class="box-center">
+        <h1>80%</h1>
+        <p>de diminuição dos erros de produção </p>
+        </div>
+    </div>
+    <div class="4u 12u$(small)">
+      <div class="box-center">
+        <h1>87%</h1>
+        <p>de diminuição das multas de atraso de entrega </p>
+      </div>
     </div>
 </div>
 </section>
