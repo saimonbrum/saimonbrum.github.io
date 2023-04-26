@@ -29,17 +29,11 @@ permalink: /end_to_end/
 		</a>
 		<div class="content">
 			<div class="inner">
-				<p> Como UX designer, minha empresa foi contratada por um grupo de engenheiros que queria automatizar a parte das planilhas do seu processo semi-automatizado.Eles trabalham em uma grande multinacional e o seu setor é a impressão de cartões inteligentes.<br>Meu primeiro passo foi realizar entrevistas com os usuários para entender como eles trabalhavam e identificar suas principais dores e desafios.<br>Durante esse processo, pude mapear os problemas e descobrir que o software encomendado pelos engenheiros até ajudava no trabalho, mas não resolvia o problema principal.<br>Os resultados da minha descoberta impressionaram tanto os engenheiros que eles mesmos propuseram uma segunda fase para o projeto, sem nem termos entregue a primeira fase ainda, dobrando o investimento inicial que haviam feito.<br>Trabalhei em colaboração com outros membros da equipe para validar minhas soluções de design e obter feedback.<br>Além disso, defini métricas claras para medir o sucesso do projeto e monitorei de perto essas métricas ao longo do tempo.<br>O resultado foi ainda mais impactante - uma redução de 87% nas multas de atraso de entrega, 80% na quantidade de erros de produção e 30% no tempo de correções.</p>
+				<p> Minha empresa foi contratada por um grupo de engenheiros que queria automatizar a parte das planilhas do seu processo semi-automatizado.Eles trabalham em uma grande multinacional e o seu setor é a impressão de cartões inteligentes.Eles chegaram com a solução pré-determinada e fecharam contrato em cima dela.<br>Meu primeiro passo como UX designer, após analisar a documentação fornecida, foi realizar entrevistas com os usuários para entender como eles trabalhavam e identificar suas principais dores e desafios.<br>Durante esse processo, pude mapear os problemas e descobrir que o software encomendado pelos engenheiros até ajudava no trabalho, mas não resolvia o problema principal.<br>Com base nas descobertas eles ficaram impressionados e começaram a negociar a segunda fase do projeto, sem nem termos entregue a primeira fase ainda, dobrando o investimento inicial que haviam feito.<br>Após o problema bem definido, e métricas estabelecidas, fizemos junto com o cliente a co-criação do software. Após validações com equipe de desenvolvimento e cliente, a equipe forneceu a verção de testes integrada com o banco de dados.<br>Após a entrega da primeira fase, iniciamos a segunda, repetindo o processo de design para cocriar a solução.<br>O resultado final foi uma redução de 87% nas multas de atraso de entrega, 80% menos erros de produção e 30% menos tempo de correções.</p>
 			</div>
 		</div>
 	</section>
-    <div class="row">
-<span class="image">
-    <img src="assets/images/case_completo_end-to-end.svg" alt="">
-</span>
-</div>
-
-<!-- One -->
+   <!-- One -->
 <div class="row">
     <h2 id="resultados">Resultados</h2>
 </div>
