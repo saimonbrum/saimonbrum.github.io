@@ -1,0 +1,25 @@
+@startuml
+
+start
+:user opens a demand plan;
+group Build stage EVT
+group Technology
+:Find station values;
+:Compare Demand with Forecasted;
+if (Demand different from Forecasted?) then (yes)
+    group Item line
+        if (Have forecasted reference?) then (yes)
+        :Compare item quantities\nusing forecasted reference;
+        (no) elseif (Reconsile needed?) then (yes)
+        :Make sure that Station Reconcile\nwas made to do an Item Reconcile;
+        stop
+        else (no)
+        endif
+  :Compare inherited quantities\nfrom previous build stages;
+    end group
+else (no)
+:No action required;
+endif
+stop
+
+@enduml
