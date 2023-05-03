@@ -17,7 +17,7 @@ permalink: /end_to_end/
 		<header class="major">
 			<h2>Intro</h2>
 		</header>
-		<p>O projeto aconteceu em duas fases.<br>O cliente já sabia o que queria, mas com as entrevistas iniciais descobrimos pontos essenciais que eles não tinham notado.Isso possibilitou a segunda fase, antes mesmo de finalizar a primeira, trazendo assim os resultados efetivos.</p>
+		<p>Esse gráfico sintetiza o processo da primeira fase do projeto, mostrando a relação entre os entregávei de design e como descobertas influenciaram o todo.</p>
 	</div>
 </section>
 
@@ -29,7 +29,16 @@ permalink: /end_to_end/
       </a>
 		<div class="content">
 			<div class="inner">
-				<p> Minha empresa foi contratada por um grupo de engenheiros que queria automatizar a parte das planilhas do seu processo semi-automatizado.Eles trabalham em uma grande multinacional e o seu setor é a impressão de cartões inteligentes.Eles chegaram com a solução pré-determinada e fecharam contrato em cima dela.<br>Meu primeiro passo como UX designer, após analisar a documentação fornecida, foi realizar entrevistas com os usuários para entender como eles trabalhavam e identificar suas principais dores e desafios.<br>Durante esse processo, pude mapear os problemas e descobrir que o software encomendado pelos engenheiros até ajudava no trabalho, mas não resolvia o problema principal.<br>Com base nas descobertas eles ficaram impressionados e começaram a negociar a segunda fase do projeto, sem nem termos entregue a primeira fase ainda, dobrando o investimento inicial que haviam feito.<br>Após o problema bem definido, e métricas estabelecidas, fizemos junto com o cliente a co-criação do software. Após validações com equipe de desenvolvimento e cliente, a equipe forneceu a verção de testes integrada com o banco de dados.<br>Após a entrega da primeira fase, iniciamos a segunda, repetindo o processo de design para cocriar a solução.<br>O resultado final foi uma redução de 87% nas multas de atraso de entrega, 80% menos erros de produção e 30% menos tempo de correções.</p>
+				<p> Esta é a história de um projeto de software interno para gerenciamento de mudanças de impressões em cartões inteligentes, incentivado pela Lei da Informática.<br>Isso significa que o cliente, uma multinacional francesa que atua nos setores aeroespacial, de defesa e de segurança, chegou com a solução pronta, com as telas que seriam entregues e o problema a ser resolvido, em contrato.<br>
+        <br>
+        Por sorte, "tela" não significa "solução racional", pois com o discovery descobri como eles faziam suas tarefas e as causas raiz de seus problemas.<br>Isso mostrou que a proposta deles não solucionava o problema real, o que resultou em negociação e aprovação da segunda fase durante a primeira.
+        <br>
+        Com a entrega da segunda fase, o resultado foi expressivo:<br>
+        - Diminuição do tempo de correção de solicitações em 30%<br>
+        - Diminuição do erro de códigos incompatíveis em 82%<br>
+        - Diminuição das multas de atraso em 87%<br>
+        <br>
+        Como o projeto possuía cláusulas de confidencialidade, não serão mostrados dados específicos, e as imagens estarão ilegíveis. Entretanto, em cada etapa da história, você pode acompanhar o que aconteceu e como eu pensei para solucionar os problemas que foram aparecendo.<br>
 			</div>
 		</div>
 	</section>
