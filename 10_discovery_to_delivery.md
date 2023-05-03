@@ -39,9 +39,12 @@ permalink: /end_to_end/
         - Diminuição das multas de atraso em 87%<br>
         <br>
         Como o projeto possuía cláusulas de confidencialidade, não serão mostrados dados específicos, e as imagens estarão ilegíveis. Entretanto, em cada etapa da história, você pode acompanhar o que aconteceu e como eu pensei para solucionar os problemas que foram aparecendo.<br>
+        </p>
 			</div>
 		</div>
 	</section>
+  </section>
+  <section>
    <!-- One -->
 <div class="row">
     <h2 id="resultados">Resultados</h2>
